@@ -100,38 +100,6 @@
   </entry>
   
   <entry>
-    <title>Microarchitecture Part 1</title>
-    <link href="https://xulixing.github.io/2021/06/07/computer-architecture/microarchitecture-part-1/"/>
-    <id>https://xulixing.github.io/2021/06/07/computer-architecture/microarchitecture-part-1/</id>
-    <published>2021-06-06T16:00:00.000Z</published>
-    <updated>2021-06-07T09:50:26.057Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Reference：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;em&gt;Digital Design and Computer Architecture,&lt;/em&gt; by David Harris, Sarah Harris&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Introduction to</summary>
-        
-      
-    
-    
-    
-    <category term="Computer architecture" scheme="https://xulixing.github.io/categories/Computer-architecture/"/>
-    
-    <category term="Microarchitecture" scheme="https://xulixing.github.io/categories/Computer-architecture/Microarchitecture/"/>
-    
-    
-    <category term="Computer architecture" scheme="https://xulixing.github.io/tags/Computer-architecture/"/>
-    
-    <category term="Microarchitecture" scheme="https://xulixing.github.io/tags/Microarchitecture/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Microarchitecture Part 2</title>
     <link href="https://xulixing.github.io/2021/06/07/computer-architecture/microarchitecture-part-2/"/>
     <id>https://xulixing.github.io/2021/06/07/computer-architecture/microarchitecture-part-2/</id>
@@ -196,6 +164,38 @@
   </entry>
   
   <entry>
+    <title>Microarchitecture Part 1</title>
+    <link href="https://xulixing.github.io/2021/06/07/computer-architecture/microarchitecture-part-1/"/>
+    <id>https://xulixing.github.io/2021/06/07/computer-architecture/microarchitecture-part-1/</id>
+    <published>2021-06-06T16:00:00.000Z</published>
+    <updated>2021-06-07T09:50:26.057Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Reference：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;Digital Design and Computer Architecture,&lt;/em&gt; by David Harris, Sarah Harris&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Introduction to</summary>
+        
+      
+    
+    
+    
+    <category term="Computer architecture" scheme="https://xulixing.github.io/categories/Computer-architecture/"/>
+    
+    <category term="Microarchitecture" scheme="https://xulixing.github.io/categories/Computer-architecture/Microarchitecture/"/>
+    
+    
+    <category term="Computer architecture" scheme="https://xulixing.github.io/tags/Computer-architecture/"/>
+    
+    <category term="Microarchitecture" scheme="https://xulixing.github.io/tags/Microarchitecture/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Clock Domain Crossing (CDC) Part 2</title>
     <link href="https://xulixing.github.io/2021/05/29/cdc/cdc-2/"/>
     <id>https://xulixing.github.io/2021/05/29/cdc/cdc-2/</id>
@@ -208,6 +208,31 @@
         
         
     <summary type="html">&lt;p&gt;Reference：&lt;br&gt;《Clock Domain Crossing (CDC) Design &amp;amp; Verification Techniques Using SystemVerilog》    -    Clifford E.</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Clock Domain Crossing (CDC) Part 1</title>
+    <link href="https://xulixing.github.io/2021/05/29/cdc/cdc-1/"/>
+    <id>https://xulixing.github.io/2021/05/29/cdc/cdc-1/</id>
+    <published>2021-05-28T16:00:00.000Z</published>
+    <updated>2022-02-14T08:51:11.974Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Reference：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;《The Study of Synchronizer Design in Asynchronous Clock Domain System》-蒲田&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;《Clock Domain</summary>
         
       
     
@@ -238,31 +263,6 @@
     
     
     <category term="DFT" scheme="https://xulixing.github.io/tags/DFT/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Clock Domain Crossing (CDC) Part 1</title>
-    <link href="https://xulixing.github.io/2021/05/29/cdc/cdc-1/"/>
-    <id>https://xulixing.github.io/2021/05/29/cdc/cdc-1/</id>
-    <published>2021-05-28T16:00:00.000Z</published>
-    <updated>2022-02-14T08:51:11.974Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Reference：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;《The Study of Synchronizer Design in Asynchronous Clock Domain System》-蒲田&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;《Clock Domain</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
